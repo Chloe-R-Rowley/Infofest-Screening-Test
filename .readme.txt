@@ -1,0 +1,12 @@
+https://drive.google.com/file/d/1GauKitbQtlLkO_sHAMABMRdImS-uKUlM/view?usp=sharing
+
+flutter needs to be installed on the local computer
+vs code or android studio must be installed with flutter pluggin
+clone the project on local 
+should hav a emulator
+run using vs code or android studio (preffered Vs code) 
+
+this is a android application for stray dogs it can be used to spot stray dogs on street and send it to authorites so they can take care of them
+
+link for animal weLfare emulator video developed using flutter , node js , mongo db. 
+DONE BY TEAM OMEGA
